@@ -35,3 +35,46 @@ caglar:
   first_name: Caglar
   last_name: Gulcehre
   website: https://www.caglarg.com/
+
+hosung:
+  first_name: Hosung
+  last_name: Lee
+  # website: https://hosunglee.github.io/
+
+christopher:
+  first_name: Christopher
+  last_name: Hoang
+  website: https://www.chrishoang.com/
+mengye:
+  first_name: Mengye
+  last_name: Ren
+  website: https://mengyeren.com/
+
+donghwan:
+  first_name: Donghwan
+  last_name: Chi
+  # website: https://donghwan-chi.github.io/
+hyomin:
+  first_name: Hyomin
+  last_name: Kim
+  # website: https://hyomin-kim.github.io/
+yoojin:
+  first_name: Yoojin
+  last_name: Oh
+  # website: https://yoojin-oh.github.io/
+donghoon:
+  first_name: Donghoon
+  last_name: Lee
+  # website: https://donghoon-lee.github.io/
+daejin:
+  first_name: Daejin
+  last_name: Jo
+  # website: https://daejin-jo.github.io/
+jonmin:
+  first_name: Jonmin
+  last_name: Kim
+  # website: https://jonmin-kim.github.io/
+sungwoong:
+  first_name: Sungwoong
+  last_name: Kim
+  website: https://sites.google.com/view/swkim/
