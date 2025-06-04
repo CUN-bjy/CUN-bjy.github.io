@@ -41,7 +41,7 @@ hosung:
   last_name: Lee
   # website: https://hosunglee.github.io/
 
-christopher:
+chrishoang:
   first_name: Christopher
   last_name: Hoang
   website: https://www.chrishoang.com/
@@ -62,6 +62,10 @@ yoojin:
   first_name: Yoojin
   last_name: Oh
   # website: https://yoojin-oh.github.io/
+yongjin:
+  first_name: Yongjin
+  last_name: Kim
+  # website: https://yongjin-kim.github.io/
 donghoon:
   first_name: Donghoon
   last_name: Lee
@@ -70,8 +74,8 @@ daejin:
   first_name: Daejin
   last_name: Jo
   # website: https://daejin-jo.github.io/
-jonmin:
-  first_name: Jonmin
+jongmin:
+  first_name: Jongmin
   last_name: Kim
   # website: https://jonmin-kim.github.io/
 sungwoong:

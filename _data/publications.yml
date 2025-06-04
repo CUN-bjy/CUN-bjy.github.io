@@ -4,13 +4,13 @@
   description: ""
   # project_page: https://cun-bjy.github.io/dreamweaver-website/
   # arxiv: n
-  # image: none
+  image: djepa.png
   # image_mouseover: illuminerf_after.mp4
   authors:
     - junyeob
-    - Hosung Lee
-    - Christopher Hoang
-    - Mengye Ren
+    - hosung
+    - chrishoang
+    - mengye
     - sungjin
 
 - id: slot-mllm
@@ -19,19 +19,19 @@
   description: ""
   # project_page: none
   arxiv: 2505.17726
-  # image: none
+  image: slot_mllm.png
   # image_mouseover: illuminerf_after.mp4
   authors:
-    - Donghwan Chi
-    - Hyomin Kim
-    - Yoojin Oh
-    - Yongjin kim
-    - Donghoon Lee
-    - Daejin Jo
-    - Jonmin Kim
+    - donghwan
+    - hyomin
+    - yoojin
+    - yongjin
+    - donghoon
+    - daejin
+    - jongmin
     - junyeob
     - sungjin
-    - Sungwoong Kim
+    - sungwoong
 
 - id: dreamweaver
   title: "Dreamweaver: Learning Compositional World Models from Pixels"
