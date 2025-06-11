@@ -1,18 +1,3 @@
-- id: djepa
-  title: "Discrete JEPA: Learning Discrete Token Representations without Reconstruction"
-  venue: Under Review
-  description: ""
-  # project_page: https://cun-bjy.github.io/dreamweaver-website/
-  # arxiv: n
-  image: djepa.png
-  # image_mouseover: illuminerf_after.mp4
-  authors:
-    - junyeob
-    - hosung
-    - chrishoang
-    - mengye
-    - sungjin
-
 - id: slot-mllm
   title: "Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM"
   venue: Preprint
@@ -32,6 +17,21 @@
     - junyeob
     - sungjin
     - sungwoong
+
+- id: djepa
+  title: "Discrete JEPA: Learning Discrete Token Representations without Reconstruction"
+  venue: Tokenization Workshop at ICML 2025
+  description: ""
+  # project_page: https://cun-bjy.github.io/dreamweaver-website/
+  # arxiv: n
+  image: djepa.png
+  # image_mouseover: illuminerf_after.mp4
+  authors:
+    - junyeob
+    - hosung
+    - chrishoang
+    - mengye
+    - sungjin
 
 - id: dreamweaver
   title: "Dreamweaver: Learning Compositional World Models from Pixels"
