@@ -3,7 +3,7 @@
   venue: ICML 2025 Tokenization Workshop (TokShop)
   description: ""
   # project_page: https://cun-bjy.github.io/dreamweaver-website/
-  # arxiv: n
+  arxiv: 2506.14373
   image: djepa.png
   # image_mouseover: illuminerf_after.mp4
   authors:
@@ -40,6 +40,7 @@
   project_page: https://cun-bjy.github.io/dreamweaver-website/
   arxiv: 2501.14174
   image: dreamweaver.png
+  github: https://github.com/ahn-ml/dreamweaver-release
   # image_mouseover: illuminerf_after.mp4
   authors:
     - junyeob
@@ -55,6 +56,7 @@
   arxiv: 2406.06793
   image: plandq.png
   # image_mouseover: illuminerf_after.mp4
+  github: https://github.com/changchencc/PlanDQ
   authors:
     - chang
     - junyeob
