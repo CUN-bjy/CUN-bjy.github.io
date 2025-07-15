@@ -1,2 +1,4 @@
+- role: Workshop Organizer
+  description: "[2nd KAIST-Mila Prefrontal AI Workshop](https://sites.google.com/view/kaist-mila-ai-workshop-2nd) (invited speakers: [Yoshua Bengio](https://yoshuabengio.org/), [Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn), [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215), [Siva Reddy](https://sivareddy.in/), [Alex Hernandez-Garcia](https://alexhernandezgarcia.github.io/), and [Jinwoo Kim](https://jw9730.github.io/))"
 - role: Reviewer
   description: "[ICLR 2025](https://iclr.cc/)"
