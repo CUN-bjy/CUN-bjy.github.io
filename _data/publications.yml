@@ -2,7 +2,6 @@
   title: "Discrete JEPA: Learning Discrete Token Representations without Reconstruction"
   venue: ICML 2025 Tokenization Workshop (TokShop)
   description: ""
-  # project_page: https://cun-bjy.github.io/dreamweaver-website/
   arxiv: 2506.14373
   image: djepa.png
   # image_mouseover: illuminerf_after.mp4
