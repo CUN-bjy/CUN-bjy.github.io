@@ -1,3 +1,20 @@
+
+- id: gram
+  title: "Generative Recursive Reasoning Models"
+  venue: Preprint
+  description: ""
+  # project_page: https://cun-bjy.github.io/dreamweaver-website/
+  # arxiv: 2501.14174
+  image: gram.png
+  # github: ahn-ml/dreamweaver-release
+  # image_mouseover: illuminerf_after.mp4
+  authors:
+    - junyeob
+    - mingyu
+    - minsu
+    - yoshua
+    - sungjin
+
 - id: djepa
   title: "Discrete JEPA: Learning Discrete Token Representations without Reconstruction"
   venue: ICML 2025 Tokenization Workshop (TokShop)

@@ -16,6 +16,17 @@ sungjin:
   last_name: Ahn
   website: https://mlml.kaist.ac.kr/sungjinahn
 
+  
+minsu:
+  first_name: Minsu
+  last_name: Kim
+  website: https://minsuukim.github.io/
+
+yoshua:
+  first_name: Yoshua
+  last_name: Bengio
+  website: https://yoshuabengio.org/
+
 chang:
   first_name: Chang
   last_name: Chen
