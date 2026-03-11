@@ -47,10 +47,14 @@ caglar:
   last_name: Gulcehre
   website: https://www.caglarg.com/
 
+mingyu:
+  first_name: Mingyu
+  last_name: Jo
+  website: https://scholar.google.co.kr/citations?user=TgVXif0AAAAJ&hl=ko
 hosung:
   first_name: Hosung
   last_name: Lee
-  # website: https://hosunglee.github.io/
+  website: https://confeitohs.notion.site/
 
 chrishoang:
   first_name: Christopher

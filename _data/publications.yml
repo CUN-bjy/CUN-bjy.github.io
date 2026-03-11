@@ -8,6 +8,9 @@
   image: gram.png
   # github: ahn-ml/dreamweaver-release
   # image_mouseover: illuminerf_after.mp4
+  equal_contribution:
+    - junyeob
+    - mingyu
   authors:
     - junyeob
     - mingyu
