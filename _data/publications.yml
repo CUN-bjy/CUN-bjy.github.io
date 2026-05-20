@@ -19,7 +19,7 @@
 
 - id: gram
   title: "Generative Recursive Reasoning"
-  venue: Preprint, 2025
+  venue: Preprint
   description: ""
   project_page: https://ahn-ml.github.io/gram-website/
   arxiv: 2605.19376
