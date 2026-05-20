@@ -1,4 +1,22 @@
 
+- id: ltwo
+  title: "Learning to Theorize the World from Observation"
+  venue: ICML, 2026
+  description: ""
+  arxiv: 2605.03413
+  image: ltwo.png
+  awards:
+    - "(Spotlight, Top 2.2%)"
+  equal_contribution:
+    - doojin
+    - gyubin
+  authors:
+    - doojin
+    - gyubin
+    - junyeob
+    - hosung
+    - sungjin
+
 - id: gram
   title: "Generative Recursive Reasoning"
   venue: Preprint, 2025
