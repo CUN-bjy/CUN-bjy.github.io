@@ -1,12 +1,12 @@
 
 - id: gram
-  title: "Generative Recursive Reasoning Models"
-  venue: Preprint
+  title: "Generative Recursive Reasoning"
+  venue: Preprint, 2025
   description: ""
-  # project_page: https://cun-bjy.github.io/dreamweaver-website/
-  # arxiv: 2501.14174
+  project_page: https://ahn-ml.github.io/gram-website/
+  arxiv: 2605.19376
   image: gram.png
-  # github: ahn-ml/dreamweaver-release
+  # github: ahn-ml/gram-release
   # image_mouseover: illuminerf_after.mp4
   equal_contribution:
     - junyeob
@@ -15,6 +15,7 @@
     - junyeob
     - mingyu
     - minsu
+    - mengye
     - yoshua
     - sungjin
 
