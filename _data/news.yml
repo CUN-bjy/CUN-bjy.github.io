@@ -2,7 +2,7 @@
   description: "Recognized as a **Silver Reviewer** 🥈 at ICML 2026!"
 
 - date: May 2026
-  description: "One paper has been accepted to ICML 2026 as an **Oral Presentation** (Top 0.7%)! 🎉"
+  description: 'One paper has been accepted to ICML 2026 as an <span style="color:#dc143c;font-weight:700">Oral Presentation (Top 0.7%)</span>! 🎉'
 
 - date: May 2026
   description: "[GRAM](https://ahn-ml.github.io/gram-website/) is now on [arXiv](https://arxiv.org/abs/2605.19376)!"
