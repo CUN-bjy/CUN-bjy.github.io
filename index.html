@@ -101,12 +101,24 @@ layout: null
       <h2 class="title is-3">News</h2>
       <div class="content">
         <ul>
-          {% for news in site.data.news %}
+          {% for news in site.data.news limit:5 %}
           <li>
             <b>{{ news.date }}</b>: {{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}
           </li>
           {% endfor %}
         </ul>
+        {% if site.data.news.size > 5 %}
+        <details class="news-more">
+          <summary>Show older news ({{ site.data.news.size | minus: 5 }} more)</summary>
+          <ul>
+            {% for news in site.data.news offset:5 %}
+            <li>
+              <b>{{ news.date }}</b>: {{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}
+            </li>
+            {% endfor %}
+          </ul>
+        </details>
+        {% endif %}
       </div>
       <br><br>
       <h2 class="title is-3">Publications</h2>
